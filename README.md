@@ -7,6 +7,9 @@ Pelican-datatable - Automatic dynamic table generation for Pelican
 
 Toni Heittola (toni.heittola@gmail.com), [GitHub](https://github.com/toni-heittola), [Home page](http://www.cs.tut.fi/~heittolt/)
 
+
+CERN Patch 2022 - Add support for data-type independent column formatters
+
 Installation instructions
 =========================
 
