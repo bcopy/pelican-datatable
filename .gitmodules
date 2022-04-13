@@ -1,3 +1,4 @@
 [submodule "js-datatable"]
 	path = js-datatable
-	url = https://github.com/toni-heittola/js-datatable
+	url = https://github.com/bcopy/js-datatable.git
+        branch = version2
